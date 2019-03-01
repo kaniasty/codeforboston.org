@@ -64,3 +64,14 @@
       url: https://refugeeswelcomehome.org
     - name: MapBox
   technologies: ReactJS, MapBox
+  
+  -
+  name: Plogalong
+  repository: https://github.com/orgs/codeforboston/teams/plogalong
+  elevatorPitch: >-
+    When you plog, you pick up trash as you go about your daily life... jogging, hiking, or simply walking down the street. Plogalong helps motivate users to track their plogs, connect with nearby ploggers, earn badges, and access local discounts.
+  lead: Eva Kaniasty (UX) & Brian Sanders (Tech)
+  partner:
+    - name: TBD - Cities, parks & friends groups everywhere
+      url: http://www.plogalong
+  technologies: ReactNative Expo, Firebase
